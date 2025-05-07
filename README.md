@@ -51,6 +51,7 @@ To enhance accuracy, you can:
 
 ---
 ![1](https://github.com/user-attachments/assets/46a5dcd1-ceae-4440-9cd1-c07858392693)
+![2](https://github.com/user-attachments/assets/9ce9b647-d914-4b73-90e9-ffed1f318f11)
 
 
 ---
