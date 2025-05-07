@@ -34,10 +34,6 @@ This repository shows how to create a basic flood simulation in **Nice, France**
 
 Here’s an example of a flood simulation in Nice:
 
-![Example Flood Map](images/example_flood_map.png)
-
-*(Replace this image with your own exported screenshot in `/images/example_flood_map.png`)*
-
 ---
 
 ## 💡 Future Improvements
